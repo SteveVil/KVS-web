@@ -4,13 +4,15 @@ layout: default
 <div class="post">
 
   <h1>{{ page.title }}</h1>
-  <span class="date">{{ page.date }}</span>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
   <p>
-  {% if page.thumbnail %}
-  <img src="{{ page.thumbnail }}" style="width= 100%" align="center" />
-  {% else %}
-  <img src="/img/thumbnails/nothumbnail.jpg" style="width= 100%" align="center" />
-  {% endif %}
+       {% if page.thumbnail %}
+   <img src="{{ page.thumbnail }}" style="width= 100%" align="center" />
+      {% else %}
+   <img src="/img/thumbnails/nothumbnail.jpg" style="width= 100%" align="center" />
+     {% endif %}
   </p>
   
   <article class="post-content">
