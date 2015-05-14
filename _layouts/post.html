@@ -5,7 +5,7 @@ layout: default
 
   <h1>{{ page.title }}</h1>
   <p class="author">
-    <span class="date">{{ page.date }}</span>
+    <span class="date">{{ page.date | date: "%-d %B %Y" }} // {{page.categories}}</span>
   </p>
   <p>
        {% if page.thumbnail %}
