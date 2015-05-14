@@ -1,7 +1,7 @@
 ---
 title:  Welcome to Jekyll!
 layout: post
-date:   2015-05-09 15:46:54
+date:   2015-05-09 15:46:54 
 categories: jekyll update
 author: Admin
 ---
