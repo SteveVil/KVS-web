@@ -6,7 +6,7 @@ permalink: /blog/
 
 
   <ul class="blog_content">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <li>
       <p>{% if post.thumbnail %}
 		<img src="{{ post.thumbnail }}" style="width= 100%" align="center" />
