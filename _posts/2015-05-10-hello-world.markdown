@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Hello World!"
 date:   2015-05-09 15:46:54
 categories: jekyll update
