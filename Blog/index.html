@@ -14,7 +14,7 @@ title: Blog
 		{% endif %}
       </p>	
       <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-      <p class="author"><span class="date">{{ post.date | date: "%-d %B %Y" }} // {{post.categories}}</span></p>
+      <p class="author"><span class="date">{{ post.date | date: "%-d %B %Y" }} // {{ post.categories }}</span></p>
 
       {{ post.excerpt }}
 
