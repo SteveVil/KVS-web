@@ -5,30 +5,30 @@ title: Blog
 
 <div class="wrapper">
 
-  <div class="blog_content">
-  {% for post in paginator.posts %}
-    <div class="post-content">
-	<div class="post-thumbnail"> 
-	 {% if post.thumbnail %}
-		<img src="{{ post.thumbnail }}" class="thumbnail" style="width=30%" align="center" />
-		{% else %}
-		<img src="/img/thumbnails/nothumbnail.jpg" class="thumbnail" style="width=30%" align="center" />
-		{% endif %}
-      	</div>
-     	<div class="post-text">
-	      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	      <p class="author"><span class="date">{{ post.date | date: "%-d %B %Y" }} // {{ post.categories }}</span></p>
-	      {{ post.excerpt }}
-	      <a class="btn" href="{{ BASE_PATH }}{{ post.url }}">Celý článek...</a>
-    	</div>
-    </div>
-    <hr>
-   {% endfor%} 
+ <div class="blog_content">
+	   {% for post in paginator.posts %}
+	    <div class="post-content">
+		<div class="post-thumbnail"> 
+		 {% if post.thumbnail %}
+			<img src="{{ post.thumbnail }}" class="thumbnail" style="width=30%" align="center" />
+			{% else %}
+			<img src="/img/thumbnails/nothumbnail.jpg" class="thumbnail" style="width=30%" align="center" />
+			{% endif %}
+	      	</div>
+	     	<div class="post-text">
+		      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		      <p class="author"><span class="date">{{ post.date | date: "%-d %B %Y" }} // {{ post.categories }}</span></p>
+		      {{ post.excerpt }}
+		      <a class="btn" href="{{ BASE_PATH }}{{ post.url }}">Celý článek...</a>
+	    	</div>
+	    </div>
+	    <hr>
+	   {% endfor%} 
 
 <!-- Pagination links -->
 
- {% if paginator.total_pages > 1 %}
-<div class="pagination">
+	  {% if paginator.total_pages > 1 %}
+  	  <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
@@ -51,9 +51,9 @@ title: Blog
     <span>Next &raquo;</span>
   {% endif %}
 </div>
-{% endif %}
+	  {% endif %}
 
-</ul>
+</div>
 
 
 {% include sidebar.html %}
