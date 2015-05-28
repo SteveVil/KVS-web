@@ -9,7 +9,7 @@ title: Blog
   {% for post in paginator.posts %}
     <li>
 	 {% if post.thumbnail %}
-		<img src="{{ post.thumbnail }}" class="thumbnail" style="width= 100%" align="center" />
+		<img src="{{ post.thumbnail }}" class="thumbnail" style="width= 30%" align="center" />
 		{% else %}
 		<img src="/img/thumbnails/nothumbnail.jpg" class="thumbnail" style="width= 100%" align="center" />
 		{% endif %}
