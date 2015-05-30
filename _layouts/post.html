@@ -1,21 +1,34 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="wrapper">
 
-  <h1>{{ page.title }}</h1>
-  <p class="author"><span class="date">{{ page.date | date: "%-d %B %Y" }} // {{page.categories}}</span></p>
-  
-  <p>
-       {% if page.thumbnail %}
-   <img src="{{ page.thumbnail }}" style="width= 100%" align="center" />
-      {% else %}
-   <img src="/img/thumbnails/nothumbnail.jpg" style="width= 100%" align="center" />
-     {% endif %}
-  </p>
-  
-  <article class="post-content">
-       {{ content }}
-  </article>
+  <div class="blog_content">
+
+
+    <h2>{{ page.title }}</h2>
+    
+    
+    <p>
+         {% if page.thumbnail %}
+     <img src="{{ page.thumbnail }}" style="width= 100%" align="center" />
+        {% else %}
+     <img src="/img/thumbnails/nothumbnail.jpg" style="width= 100%" align="center" />
+       {% endif %}
+    </p>
+    <p class="author"><span class="date">{{ page.date | date: "%-d %B %Y" }} // {{page.categories}}</span></p>
+    <article class="post-content">
+         {{ content }}
+    </article>
+
+  </div>
+
+  <div class="sidebar">
+
+    <h2> Title </h2>
+
+  </div>
+
+
 
 </div>
