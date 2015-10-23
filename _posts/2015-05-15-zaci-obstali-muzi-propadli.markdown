@@ -1,5 +1,5 @@
 ---
-title: Starší žáci v Přerově obstáli muži v Praze propadli
+title: Starší žáci v Přerově obstáli, muži v Praze propadli
 layout: post
 date: 15.5.2015 
 categories: zaci
@@ -11,7 +11,7 @@ Slušný výkon předvedl tým starších žáků KVS Plzeň, který se dne 8. k
 Fezko Strakonice „B“ – KVS Plzeň 12 : 7
 KVP Přerov – KVS Plzeň 3 : 11
 
-9. května pokračovala druhá liga mužů „trojzápasovým“ kolem v Praze Podolí. Z pohledu KVS se bohužel tentokráte vydařilo snad jen počasí, když jinak si ze sluncem zalitého venkovního bazénu odvezl tři prohry. Nemá smysl spekulovat, zda za zoufalým výkonem stálo zranění kapitána týmu již v prvním zápase, absence trenéra či nedostatek nasazení a přípravy díky uspokojení z plného bodového zisku v minulém ligovém kole. Plzeňský tým selhal ve všech herních činnostech a zcela promrhal nadějný vstup do soutěže. Pokud nedojde v družstvu k zásadní změně přístupu, budou jen těžko naplněny ambiciózní vize z počátku sezony. Jednotlivé výsledky zápasů jsou následující:
+9 května pokračovala druhá liga mužů „trojzápasovým“ kolem v Praze Podolí. Z pohledu KVS se bohužel tentokráte vydařilo snad jen počasí, když jinak si ze sluncem zalitého venkovního bazénu odvezl tři prohry. Nemá smysl spekulovat, zda za zoufalým výkonem stálo zranění kapitána týmu již v prvním zápase, absence trenéra či nedostatek nasazení a přípravy díky uspokojení z plného bodového zisku v minulém ligovém kole. Plzeňský tým selhal ve všech herních činnostech a zcela promrhal nadějný vstup do soutěže. Pokud nedojde v družstvu k zásadní změně přístupu, budou jen těžko naplněny ambiciózní vize z počátku sezony. Jednotlivé výsledky zápasů jsou následující:
 
 STEPP Praha – KVS Plzeň 9 : 2
 Spolchemie Ústí n/L. – KVS Plzeň 9 : 7
