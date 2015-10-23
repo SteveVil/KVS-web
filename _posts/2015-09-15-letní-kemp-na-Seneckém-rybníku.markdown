@@ -6,7 +6,6 @@ categories: zaci
 author: KVS Plzeň
 thumbnail: /img/thumbnails/pic21.jpg
 ---
-
 Letní prázdniny už sice před téměř měsícem skončily, některé zážitky z nich jsou však díky skvělým vzpomínkám stále čerstvé, Nejinak je tomu i v případě vzpomínek dětí z Klubu vodních sportů Plzeň, které, jako každý rok, strávily několik úžasných dní na klubové základně u Seneckého rybníka.
 
 Pohodová atmosféra, nádherné počasí a čistá radost ze sportu a pohybu v malebném prostředí. I takto lze krátce popsat letošní ročník, který proběhl pod vedením trenérů Nikoly Bušauerové a Davida Faita. Celkem šestnáct dětí ve věku 12 až 15 let absolvovalo nejen čtyři tréninky denně, které daly všem pořádně zabrat, ale užilo si i výlety do okolí a večerní program. Podle slov trenérů bylo zvláště díky snaze a houževnatosti i těch nejmladších už po pár dnech vidět zlepšení po sportovní stránce. Rovněž viditelné bylo stmelení kolektivu a příznivý efekt změny tréninkového prostředí.
