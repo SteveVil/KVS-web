@@ -4,7 +4,7 @@ layout: post
 date:   12.9.2015 
 categories: zaci
 author: KVS Plzeň
-thumbnail: https://photos.google.com/album/AF1QipPuboz8I7sHgy8MNGCxVB7ULfuUWM0gQRgDV1xT/photo/AF1QipODgLwtQTkRX_KSMC1T268c2rpMXF8IyMh1TxTU
+thumbnail: https://goo.gl/photos/TfjwqbEh6QUQFZs89
 ---
 Letní prázdniny už sice před téměř měsícem skončily, některé zážitky z nich jsou však díky skvělým vzpomínkám stále čerstvé, Nejinak je tomu i v případě vzpomínek dětí z Klubu vodních sportů Plzeň, které, jako každý rok, strávily několik úžasných dní na klubové základně u Seneckého rybníka.
 
