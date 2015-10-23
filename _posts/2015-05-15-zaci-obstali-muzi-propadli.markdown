@@ -18,8 +18,8 @@ Spolchemie Ústí n/L. – KVS Plzeň 9 : 7
 TJ Tábor – KVS Plzeň 13 : 5
 
 Tabulka 2 ligy mužů po 2. kole:       
-1. TJ Tábor 8 bodů
-2. Spolchemie Ústí n/L. 6 6 bodů
-3. KVS Plzeň 6 bodů
-4. STEPP Praha 4 body
+1. TJ Tábor 8 bodů  
+2. Spolchemie Ústí n/L. 6 6 bodů  
+3. KVS Plzeň 6 bodů  
+4. STEPP Praha 4 body  
 5. TJ Děčín 0 bodů
