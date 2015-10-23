@@ -1,5 +1,5 @@
 ---
-title: Starší žáci v Přerově obstáli, muži v Praze propadli
+title: Starší žáci v Přerově obstáli muži v Praze propadli
 layout: post
 date: 15.5.2015 
 categories: zaci
