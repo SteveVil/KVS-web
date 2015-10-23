@@ -1,5 +1,11 @@
-LETNÍ KEMP MA SENECKÉM RYBNÍKU
-Publikováno 25.9.2015 by admin	
+---
+title:  Letní kemp na Seneckém rybníku
+layout: post
+date:   12.9.2015 
+categories: zaci
+author: KVS Plzeň
+thumbnail: /img/thumbnails/pic21.jpg
+---
 
 Letní prázdniny už sice před téměř měsícem skončily, některé zážitky z nich jsou však díky skvělým vzpomínkám stále čerstvé, Nejinak je tomu i v případě vzpomínek dětí z Klubu vodních sportů Plzeň, které, jako každý rok, strávily několik úžasných dní na klubové základně u Seneckého rybníka.
 
