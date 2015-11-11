@@ -2,7 +2,7 @@
 title:  Druhé kolo finálových utkání
 layout: post
 date:   30.5.2015 
-categories: zaci
+categories: Muži
 author: KVS Plzeň
 thumbnail: /img/thumbnails/pic21.jpg
 ---
